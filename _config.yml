@@ -1,0 +1,6 @@
+# GitHub Pages (Jekyll) settings.
+# The runbook and the scripts live in this repository as the source of truth,
+# but they are not part of the published site.
+exclude:
+  - RUNBOOK.md
+  - scripts
